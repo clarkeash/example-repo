@@ -3,11 +3,11 @@ an example repo for something i am working on
 
 ===
 
-- [Installation](#Installation)
-- [Usage](#Usage)
-- [Tests](#Tests)
-- [Contributing](#Contributing)
-- [License](#License)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Tests](#tests)
+- [Contributing](#contributing)
+- [License](#license)
 
 
 
